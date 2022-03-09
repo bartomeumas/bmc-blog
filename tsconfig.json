@@ -20,7 +20,8 @@
     "**/*.ts",
     "**/*.tsx",
     "pages/_app.jsx",
-    "pages/api/comments.js"
+    "pages/api/comments.js",
+    "pages/index.js"
   ],
   "exclude": ["node_modules"]
 }
