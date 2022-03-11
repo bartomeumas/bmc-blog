@@ -106,8 +106,8 @@ const CommentsForm = ({ slug }) => {
         <button
           type="button"
           onClick={handleCommentSubmition}
-          className="ease inline-block cursor-pointer rounded-full bg-pink-600 
-          px-8 py-3 text-lg text-white transition duration-500 hover:bg-indigo-900"
+          className="ease inline-block cursor-pointer rounded-full bg-green-600 
+          px-8 py-3 text-lg text-white transition duration-500 hover:bg-green-400"
         >
           Post Comment
         </button>
